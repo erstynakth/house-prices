@@ -1,1 +1,1 @@
-# predicting house prices using multiple linear regression model
+# House Prices Prediction Using Linear Regression Model
